@@ -57,7 +57,7 @@ Boolean
 
  48. Создать переменную b_item_t и присвоить True
  49. Создать переменную b_item_f и присвоить False
- 50. Создать переменную b_item_relult_sum и присвоить сумму b_item_t и b_item_f
+ 50. Создать переменную b_item_result_sum и присвоить сумму b_item_t и b_item_f
  51. Вывести b_item_relult_sum в консоль.
  52. Создать переменную b_item_relult_subtr и присвоить разницу b_item_t и b_item_f
  53. Вывести b_item_relult_subtr в консоль.
@@ -67,5 +67,5 @@ Boolean
  57. Вывести b_item_relult_division в консоль. (Получить ошибку)
  58. Создать переменную b_item_1_int и присвоить явное приведение b_item_t к int 
  59. Вывести b_item_1_int в консоль.
- 60. Создать переменную b_item_2_int и присвоить явное приведение b_item_2 к int 
+ 60. Создать переменную b_item_2_int и присвоить явное приведение b_item_f к int 
  61. Вывести b_item_2_int в консоль.
