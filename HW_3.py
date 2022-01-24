@@ -112,7 +112,8 @@ if currency_convertor:
         print(target_currency_amount, byn_item, "=", currency_result, usd_item)
     else:
         print("Unknown currency")
-
+else:
+    print("Переменная currency_convertor = ", item_3)
 
 
 
