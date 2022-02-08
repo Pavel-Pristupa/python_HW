@@ -33,8 +33,8 @@ name2 = "stringGG"
 name_ = name1 + name2
 print(name_)
 # 12) Вывести в одну строку переменные типа String и Integer используя “,” (Запятую)
-print(name, age)
+print(name, age, sep=", ")
 # 13) Вывести в одну строку переменные типа String и Integer используя “+” (Плюс)
-print(name + str(age))
+print(name, age, sep=" + ")
 
 
